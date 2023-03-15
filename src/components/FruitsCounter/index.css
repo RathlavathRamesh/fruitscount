@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.card-container {
+  height: 90vh;
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 20px;
+  border-width: 0px;
+  border-radius: 8px;
+}
+.heading {
+  text-align: center;
+  margin-top: 10px;
+}
+.sp {
+  color: #ffd569;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 40vh;
+}
+.imgbtn {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin: 10px;
+}
+.but {
+  background-color: #007bff;
+  border-width: 0px;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 5px;
+  width: 116px;
+  height: 5vh;
+}
+.center {
+  text-align: center;
+  margin-top: 5px;
+}
